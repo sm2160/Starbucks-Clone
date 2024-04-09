@@ -1,4 +1,4 @@
-Starbucks Clone Website
+#Starbucks Clone Website
 
 
 Welcome to the Starbucks Clone Website! This project replicates the renowned Starbucks website, offering a glimpse into the design and functionality of the original platform. Dive into the world of Starbucks Coffee and explore its features:
